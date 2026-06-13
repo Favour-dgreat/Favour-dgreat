@@ -1,5 +1,6 @@
 Hi there 👋 — I build mobile apps with Flutter and modern web experiences with Next.js & React
-🇳🇬 Based in Nigeria  · 
+
+---
 📱 Flutter / Dart  · 
 🌐 Next.js / React  · 
 ☁️ Firebase & Supabase
