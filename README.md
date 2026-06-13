@@ -14,7 +14,8 @@ Hi there 👋 — I build mobile apps with Flutter and modern web experiences wi
 - 🔥 Love integrating **Firebase** and **Supabase** as my backend layer
 - 🌍 State Programme Manager for **3MTT Ekiti State** — growing Nigeria's tech talent pipeline
 - ⚡ Currently working on **QSL** — a logistics app for delivery of items across multiple states
-- 
+- ⚡ Building **TradeHere** — a fintech app for crypto, gift cards, virtual cards, E-sims & utilities
+
 
 ---
 
