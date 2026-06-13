@@ -1,47 +1,8 @@
-
-
-
-
-  
-
-
-
-
-
-
-
-  Hi there 👋 — I build mobile apps with Flutter and modern web experiences with Next.js & React
-
-
-
-
-
-
-  🇳🇬 Based in Nigeria  · 
-  📱 Flutter / Dart  · 
-  🌐 Next.js / React  · 
-  ☁️ Firebase & Supabase
-
-
-
-
-
-
-
-  
-    
-  
-   
-  
-    
-  
-   
-  
-    
-  
-
-
-
+Hi there 👋 — I build mobile apps with Flutter and modern web experiences with Next.js & React
+🇳🇬 Based in Nigeria  · 
+📱 Flutter / Dart  · 
+🌐 Next.js / React  · 
+☁️ Firebase & Supabase
 
 ---
 
@@ -83,30 +44,13 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| [**TradeHere**](https://github.com/Favour-dgreat) | Flutter · Next.js · NestJS · Firebase | Fintech app — crypto trading, gift cards, utility bills & virtual cards |
-| [**Cefmorsi App**](https://github.com/Favour-dgreat) | Flutter · Firebase · PostgreSQL | Cross-platform Christian resource app — devotionals, sermons & live streams |
-| [**FloodWatch Ado-Ekiti**](https://github.com/Favour-dgreat) | Vanilla JS · Supabase · SVG | Civic tech flood reporting app for my local community 🌊 |
+| [**TradeHere**](https://github.com/Favour-dgreat/TradeHereMobileApp) | Flutter · Next.js · NestJS · Firebase | Fintech app — crypto trading, gift cards, utility bills & virtual cards |
+| [**Cefmorsi App**](https://github.com/Favour-dgreat/cefmorsi_mobile) | Flutter · Firebase · PostgreSQL | Cross-platform Christian resource app — devotionals, sermons & live streams |
+| [**QSL**](https://github.com/Favour-dgreat/QSL) | Flutter · Firebase · Next.js | Logistics app - Send items across multiple states
 
 ---
 
 ## 📊 GitHub stats
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
 
 ---
 
@@ -114,11 +58,5 @@
 
 - 🥇 Special AE Builders Award — Akshwani Blockchain Hackathon
 - 📡 State Programme Manager, **3MTT Ekiti State** (3 Million Technical Talent)
-- 🤝 Chapter organiser, **AIIN Nigeria (AI-in-Nigeria)** — Ekiti State
 
 ---
-
-
-
-
-  
