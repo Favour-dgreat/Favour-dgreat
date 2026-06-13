@@ -13,7 +13,8 @@ Hi there 👋 — I build mobile apps with Flutter and modern web experiences wi
 - 🌐 Building full-stack web apps with **Next.js, React & TailwindCSS**
 - 🔥 Love integrating **Firebase** and **Supabase** as my backend layer
 - 🌍 State Programme Manager for **3MTT Ekiti State** — growing Nigeria's tech talent pipeline
-- ⚡ Currently working on **TradeHere** — a fintech app for crypto, gift cards & utilities
+- ⚡ Currently working on **QSL** — a logistics app for delivery of items across multiple states
+- 
 
 ---
 
@@ -46,18 +47,16 @@ Hi there 👋 — I build mobile apps with Flutter and modern web experiences wi
 | Project | Stack | Description |
 |---|---|---|
 | [**TradeHere**](https://github.com/Favour-dgreat/TradeHereMobileApp) | Flutter · Next.js · NestJS · Firebase | Fintech app — crypto trading, gift cards, utility bills & virtual cards |
-| [**Cefmorsi App**](https://github.com/Favour-dgreat/cefmorsi_mobile) | Flutter · Firebase · PostgreSQL | Cross-platform Christian resource app — devotionals, sermons & live streams |
+| [**Cefmorsi App**](https://github.com/Favour-dgreat/cefmorsi_mobile) | Flutter · Firebase · PostgreSQL | Cross-platform Christian resource app — devotionals, Quizes, Magazine, the Bible, Live streams and more|
 | [**QSL**](https://github.com/Favour-dgreat/QSL) | Flutter · Firebase · Next.js | Logistics app - Send items across multiple states
+| [**TheFeb10Project**](https://github.com/Favour-dgreat/theFeb10Project) | Firebase · Next.js | Scholarship Management System - Handling scholarship applications for over 5k applicants, with a step-by-step application process and a transparent review system. 
 
 ---
 
-## 📊 GitHub stats
-
----
 
 ## 🏆 Highlights
 
 - 🥇 Special AE Builders Award — Akshwani Blockchain Hackathon
 - 📡 State Programme Manager, **3MTT Ekiti State** (3 Million Technical Talent)
-
+- 👨🏽‍💻 Team Lead, [**TotalScope**](https://www.totalscope.agency/)
 ---
